@@ -1,0 +1,7 @@
+{
+  "name": "eHealth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
